@@ -7,4 +7,4 @@ function drawTree (treeHeight) {
        console.log(star);
     };
 }
-drawTree(3)
+drawTree(3);
